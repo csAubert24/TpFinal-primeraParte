@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\Articulos\bin\Debug\Articulos.exe.config
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\Articulos\bin\Debug\Articulos.exe
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\Articulos\bin\Debug\Articulos.pdb
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\Articulos\obj\Debug\Articulos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\Articulos\obj\Debug\Articulos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\Articulos\obj\Debug\Articulos.frmHome.resources
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\Articulos\obj\Debug\Articulos.Properties.Resources.resources
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\Articulos\obj\Debug\Articulos.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\Articulos\obj\Debug\Articulos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\Articulos\obj\Debug\Articulos.exe
+C:\Users\Usuario\Documents\curso_c#\out\TpFinalNivel2_Aubert\Articulos\obj\Debug\Articulos.pdb
